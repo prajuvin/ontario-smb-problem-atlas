@@ -1,0 +1,13 @@
+id,problem,figure,source,source_url,as_of,confidence,buildable
+1,Total tax burden,74% of owners name it a top concern,CFIB survey Q4 2025 (8511 responses),https://www.cfib-fcei.ca/en/research-economic-analysis/our-members-opinions,2026-09-23,high,no (policy)
+2,Labour shortages,54%,CFIB survey Q4 2025,https://www.cfib-fcei.ca/en/research-economic-analysis/our-members-opinions,2026-09-23,high,partly
+3,Government regulation and paperwork,54%,CFIB survey Q4 2025,https://www.cfib-fcei.ca/en/research-economic-analysis/our-members-opinions,2026-09-23,high,yes
+4,Trade challenges,43%,CFIB survey Q4 2025,https://www.cfib-fcei.ca/en/research-economic-analysis/our-members-opinions,2026-09-23,high,no (policy)
+5,Crime and safety,35%,CFIB survey Q4 2025,https://www.cfib-fcei.ca/en/research-economic-analysis/our-members-opinions,2026-09-23,high,no
+6,Inflation,41.6% of businesses (top obstacle),Statistics Canada survey Q3 2026 via summary,https://www.bridginglocal.com/post/canadian-business-conditions-q3-2026,2026-09-23,medium,no
+7,Recruiting skilled employees,25.2%,Statistics Canada survey Q3 2026 via summary,https://www.bridginglocal.com/post/canadian-business-conditions-q3-2026,2026-09-23,medium,partly
+8,Cost of inputs,24.1%,Statistics Canada survey Q3 2026 via summary,https://www.bridginglocal.com/post/canadian-business-conditions-q3-2026,2026-09-23,medium,no
+9,Cost of insurance,22.4%,Statistics Canada survey Q3 2026 via summary,https://www.bridginglocal.com/post/canadian-business-conditions-q3-2026,2026-09-23,medium,no
+10,Business closures exceed openings,Six straight quarters; Ontario exit rate 6.7% vs entry rate 5.1% as reported by CFIB,CFIB release April 2026,https://www.cfib-fcei.ca/en/media/more-businesses-have-been-closing-than-opening-in-ontario-and-canada-were-in-an-entrepreneurial-drought,2026-09-23,high,no
+11,Owners discouraged from starting a business,More than 55% would not recommend it now,CFIB release April 2026,https://www.cfib-fcei.ca/en/media/more-businesses-have-been-closing-than-opening-in-ontario-and-canada-were-in-an-entrepreneurial-drought,2026-09-23,high,no
+12,AI adoption plans,1 in 4 businesses; data analytics 41.7% LLMs 39.3% chatbots 31.8%,Statistics Canada survey Q3 2026 via summary,https://www.bridginglocal.com/post/canadian-business-conditions-q3-2026,2026-09-23,medium,context
